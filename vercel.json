@@ -1,5 +1,4 @@
 {
-  "vercel": 3,
   "name": "gild_hw",
   "builds": [
     {
